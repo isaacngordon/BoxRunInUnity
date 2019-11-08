@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{137BCD9D-9D14-CB70-EE99-09BB88998830}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WinTrigger.cs">
+    <Files>
+      <File FileName="Assets/scripts/PlayerCollision.cs" Line="13" Column="55" />
+      <File FileName="Assets/scripts/PlayerMovement.cs" Line="27" Column="30" />
+      <File FileName="Assets/scripts/ScoreCounter.cs" Line="14" Column="58" />
+      <File FileName="Assets/scripts/GameManager.cs" Line="9" Column="34" />
+      <File FileName="Assets/WinTrigger.cs" Line="10" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dd4835f7-5ade-4c55-bf59-0b95d301700d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
